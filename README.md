@@ -6,8 +6,8 @@
 
 # Instructions
 
-- Téléchargez la dernière version de **NtlmGithubManager** [ici](https://github.com/ntlm-technologies/ntlm.Damien/releases),
-- exécutez,
+- TéléchargeR la dernière version de **NtlmGithubManager** [ici](https://github.com/ntlm-technologies/ntlm.Damien/releases),
+- exécuter,
 - suivez les instructions.
 
 
